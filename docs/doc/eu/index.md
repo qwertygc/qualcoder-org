@@ -5,7 +5,7 @@ path: index
 
 QualCoder doako, iturburu irekiko mahaigaineko software programa bat da, datu kualitatiboen analisirako diseinatua.
 
-<img width="1402" height="520" alt="Écran de codage de texte" src="/images/3ecb4d97-86df-4688-8280-69108022dda0.png" />
+![Écran de codage de texte](/images/3ecb4d97-86df-4688-8280-69108022dda0.png)
 
 QualCoder-ek testuak, irudiak, audio- eta bideo-fitxategiak kodetzeko aukera ematen dizu, baita egunkari-sarrerak eta memoak idazteko ere. Kodek zuhaitz hierarkiko egitura batean antola ditzakezu. Txosten anitz sor daitezke. Txosten gehienak HTML, OpenDocument Testu (ODT), testu arrunt edo Excel formatuan esporta daitezke.
 
@@ -46,7 +46,7 @@ Bereziki QualCoder gustuko baduzu edo erabilera original bat asmatu baduzu, lasa
 
 Doan eskuragarri dagoen software honen sorkuntzak lanordu asko behar izan ditu. **QualCoder erabiltzen eta baloratzen baduzu, mesedez, lagundu haren garapenean.**
 
-<a href="https://www.buymeacoffee.com/ccbogelB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Erosi kafe bat" height="41" width="174"></a>
+[![Erosi kafe bat](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
 QualCoder Python-en idatzita dago eta Qt6 erabiltzen du interfaze grafikorako. QualCoder Windows 11n, macOS-en eta hainbat Linux banaketatan erabili da: Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 

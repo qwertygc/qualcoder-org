@@ -40,7 +40,7 @@ QualCoder 包含一系列人工智能辅助功能，这些功能利用大型语�
 
 开发这款免费软件耗费了无数个小时的工作时间。**如果您在使用并喜欢 QualCoder，请支持其开发。**
 
-<a href="https://www.buymeacoffee.com/ccbogelB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="请我喝杯咖啡" height="41" width="174"></a>
+[![请我喝杯咖啡](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
 QualCoder 采用 Python 编写，并使用 Qt6 实现图形界面。QualCoder 已在 Windows 11、macOS 以及多种 Linux 发行版（包括 Ubuntu、Lubuntu、ZorinOS、Arch、Fedora）上运行。
 

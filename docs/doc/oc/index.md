@@ -42,7 +42,7 @@ Se vos agrada fòrça QualCoder, o s'avètz desvolopat un usatge novèl per el, 
 
 Calguèt fòrça, fòrça oras de trabalh per crear aqueste logicial que se provesís gratuitament.**S'utilizatz e vos agrada QualCoder, mercé de sosténer lo desvolopament.**
 
-<a href="https://www.buymeacoffee.com/ccbogelB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Crompa-me un cafè" height="41" width="174">
+[![Crompa-me un cafè](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
 QualCoder es escrich en python en utilizant Qt6 per l'interfàcia grafica. QualCoder es estat utilizat sus Windows 11, macOS e divèrsas distribucions Linux : Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 

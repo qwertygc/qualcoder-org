@@ -43,7 +43,7 @@ QualCoderを大変気に入っていただいた場合や、独自の活用方�
 
 このソフトウェアは、無料でご利用いただけるよう、数え切れないほどの時間を費やして開発されました。**QualCoderをご利用いただき、気に入っていただけた場合は、開発へのご支援をお願いいたします。**
 
-<a href="https://www.buymeacoffee.com/ccbogelB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
 QualCoderはPythonで記述されており、グラフィカルインターフェースにはQt6が使用されています。QualCoderは、Windows 11、macOS、およびUbuntu、Lubuntu、ZorinOS、Arch、FedoraなどのさまざまなLinuxディストリビューションで動作確認されています。
 
