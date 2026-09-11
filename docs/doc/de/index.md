@@ -5,7 +5,7 @@ path: index
 
 QualCoder ist eine kostenlose Open-Source-Desktop-Software zur qualitativen Datenanalyse.
 
-<img width="1402" height="520" alt="Bildschirm zur Textkodierung" src="/images/3ecb4d97-86df-4688-8280-69108022dda0.png" />
+![Bildschirm zur Textkodierung](/images/3ecb4d97-86df-4688-8280-69108022dda0.png)
 
 QualCoder kann Text, Bilder, Audio- und Videodateien kodieren sowie Tagebuchnotizen und Memos erstellen. Sie können Codes in einem baumartigen Kategorisierungsschema organisieren. Es können verschiedene Berichte erstellt werden. Die meisten Berichte lassen sich als HTML-, OpenDocument-Text- (ODT), Nur-Text- oder Excel-Dateien exportieren.
 
@@ -48,7 +48,7 @@ Wenn Ihnen QualCoder besonders gut gefällt oder Sie eine neuartige Anwendung da
 
 Es hat viele, viele Arbeitsstunden gekostet, diese Software zu entwickeln, die kostenlos zur Verfügung gestellt wird. **Wenn Sie QualCoder nutzen und mögen, unterstützen Sie bitte die Entwicklung.**
 
-<a href="https://www.buymeacoffee.com/ccbogelB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
 QualCoder ist in Python geschrieben und verwendet Qt6 für die grafische Benutzeroberfläche. QualCoder wurde unter Windows 11, macOS und verschiedenen Linux-Distributionen getestet: Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 

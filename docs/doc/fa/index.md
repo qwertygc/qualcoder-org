@@ -39,7 +39,7 @@ QualCoder شامل مجموعه‌ای از ویژگی‌های مبتنی بر 
 
 ایجاد این نرم‌افزار که به صورت رایگان در اختیار شما قرار گرفته است، ساعت‌ها کار و تلاش بسیار زیادی را می‌طلبیده است. **اگر از QualCoder استفاده می‌کنید و آن را دوست دارید، لطفاً از توسعه آن حمایت کنید.**
 
-<a href="https://www.buymeacoffee.com/ccbogelB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="یک قهوه برایم بخر" height="41" width="174"></img></a
+[![یک قهوه برایم بخر](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
 QualCoder با پایتون و با استفاده از Qt6 برای رابط کاربری گرافیکی نوشته شده است. QualCoder بر روی ویندوز ۱۱، macOS و توزیع‌های مختلف لینوکس از جمله اوبونتو، لوبونتو، زورین او‌اس، آرچ و فدورا استفاده شده است.
 
