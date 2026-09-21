@@ -20,7 +20,7 @@ QualCoder includes a set of AI-assisted features that utilise Large Language Mod
     - **QualCoder supports open standards**. QualCoder aims to support the [REFI-QDA Standard](https://www.qdasoftware.org/), you may exchange codebooks and projects with your colleagues even if they do not use QualCoder, as long as the software they use supports the REFI-QDA Standard. It means that you do not risk your data being unavailable. REFI-QDA Project is not guaranteed 100% compliant yet. Further testing particularly for audio and video exports and imports and relatively-linked files is needed.
     - **QualCoder can be modified**. You can modify and adapt QualCoder to your needs, as long as you release your changes for everyone. This also means you can copy the software and give it to your colleagues or students free of charge.
     - **QualCoder is a software option to support open science**. [UNESCO recommendations on open science](https://www.unesco.org/en/open-science?hub=686)
-    
+
 ## Current release
 Software releases are available from [Github](https://github.com/ccbogel/QualCoder/releases). These contain source code and executables. The executables are an easy way to run QualCoder, double click to run, just be aware that it can take up to 20 seconds to open.
 
@@ -46,7 +46,7 @@ If you like QualCoder a lot, or have developed a novel use for it, please write 
 
 It has taken many, many hours of work to create this software that is provided free to use.**If you use and like QualCoder please support the development.**
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
+[![Buy Me A Coffee](/images/buymeacoffee-default-orange.png)](https://www.buymeacoffee.com/ccbogelB)
 
 QualCoder is written in python using Qt6 for the graphical interface. QualCoder has been used on Windows 11, macOS and various Linux distros: Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 
